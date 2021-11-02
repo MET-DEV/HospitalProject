@@ -9,6 +9,7 @@ namespace TestLayer
 {
     class Program
     {
+        //test
         static void Main(string[] args)
         {
             ClinicManager cManager = new ClinicManager(new EfClinicDal());
